@@ -1,0 +1,13 @@
+- name: CROCOVAL
+  link: /index.html
+  image: logoCrocoval.png
+- name: About
+  link: /about.html
+- name: Publications
+  link: /publications.html
+- name: Deliverables
+  link: /deliverables.html
+- name: Work Packages
+  link: /wpdescription.html
+- name: News
+  link: /blog.html

@@ -1,0 +1,9 @@
+- name: Publications
+  link: /publications.html
+  image: icons8-journal-50.png
+- name: Deliverables
+  link: /deliverables.html
+  image: icons8-folder-64.png
+- name: Work-Packages
+  link: /wpdescription.html
+  image: icons8-gantt-chart-64.png
