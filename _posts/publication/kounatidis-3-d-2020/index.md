@@ -1,6 +1,5 @@
 ---
 title: "3D Correlative Cryo-Structured Illumination Fluorescence and Soft X-ray Microscopy Elucidates Reovirus Intracellular Release Pathway"
-category: pub
 date: 2020-07-01
 publishDate: 2021-07-05T12:41:29.458773Z
 authors: ["Ilias Kounatidis", "Megan L. Stanifer", "Michael A. Phillips", "Perrine Paul-Gilloteaux", "Xavier Heiligenstein", "Hongchang Wang", "Chidinma A. Okolo", "Thomas M. Fish", "Matthew C. Spink", "David I. Stuart", "Ilan Davis", "Steeve Boulant", "Jonathan M. Grimes", "Ian M. Dobbie", "Maria Harkiolaki"]
