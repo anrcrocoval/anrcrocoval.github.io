@@ -1,7 +1,7 @@
 # anrcrocoval.github.io
 Website of the CROCOVAL Project ANR-18-CE45-0015
 direct access: 
-anrcrocoval.github.io
+http://anrcrocoval.github.io
 
 Started from https://github.com/sfarrens/sfarrens.github.io , created by Samuel Farrens
 Usage of jekill, academic for publication:
