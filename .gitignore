@@ -5,3 +5,4 @@ _site/
 .jekyll*
 _posts/Nouveau document texte.txt
 _posts/template.txt
+Gemfile.lock
