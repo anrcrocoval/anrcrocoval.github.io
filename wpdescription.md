@@ -10,8 +10,12 @@ Correlative microscopies allow to combine different scales of observations and d
 We expect that the proposed framework will apply to a larger panel of biomedical studies.
 
 The project is divided in 3 technical and methodological tasks:
+
 Task 1: Development of feature extraction and point based registration, including the creation of a unique database of correlated image;
+
 Task 2: Development of the error estimation framework;
+
 Task 3: Optimization of correlative microscopies acquisition protocols for the study of Mitral Valve Prolapse.
 
-![Project organisation](wp.PNG "The project is based on the development of adapted feature extraction algorithm and point based registration, and of an error estimation framework. It will be supported and validated by the creation of an original data base, and will allow the development of original and optimized imaging workflows of acquisition.")
+
+![Project organisation](assets/images/wp.PNG "The project is based on the development of adapted feature extraction algorithm and point based registration, and of an error estimation framework. It will be supported and validated by the creation of an original data base, and will allow the development of original and optimized imaging workflows of acquisition.")
