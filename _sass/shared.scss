@@ -39,7 +39,7 @@
 }
 
 @mixin post-box-image($height) {
-  width: 70%;
+  width: 100%;
   height: $height;
   margin-bottom: 0.7rem;
   object-fit: cover;
