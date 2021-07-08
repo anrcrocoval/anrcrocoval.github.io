@@ -7,3 +7,6 @@
 - name: Work-Packages
   link: /wpdescription.html
   image: icons8-gantt-chart-64.png
+- name: News
+  link: /blog.html
+  image: icons8-news-50.png
