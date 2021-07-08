@@ -12,6 +12,11 @@
     <img src="{{ site.image_path }}/{{ post.image }}" class="post-image">
   </div>
   <div class="post-icon-container">
+    {% if post.ads %}
+    <a href="{{ post.ads }}" target="_blank">
+      <img src="{{ site.image_path }}/nasa.png" class="post-icon">
+    </a>
+    {% endif %}
     {% if post.arxiv %}
     <a href="{{ post.arxiv }}" target="_blank">
       <img src="{{ site.image_path }}/arxiv.png" class="post-icon">
