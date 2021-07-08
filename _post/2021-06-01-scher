@@ -1,0 +1,14 @@
+---
+title: In situ fiducial markers for 3D correlative cryo-fluorescence and FIB-SEM imaging 
+category: pub
+year: 2021
+image: scher.png
+journal: iScience
+authors: Nadav Scher; Katya Rechav; Perrine Paul-Gilloteaux; Ori Avinoam
+ads: https://www.cell.com/iscience/fulltext/S2589-0042(21)00682-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004221006829%3Fshowall%3Dtrue
+arxiv: https://doi.org/10.1101/2021.03.14.435311
+pdf: https://www.cell.com/action/showPdf?pii=S2589-0042%2821%2900682-9
+doi: https://www.doi.org/10.1016/j.isci.2021.102714
+layout: post-pub
+---
+Imaging of cells and tissues has improved significantly over the last decade. Dual-beam instruments with a focused ion beam mounted on a scanning electron microscope (FIB-SEM), offering high-resolution 3D imaging of large volumes and fields-of-view are becoming widely used in the life sciences. FIB-SEM has most recently been implemented on fully hydrated, cryo-immobilized, biological samples. Correlative light and electron microscopy workflows combining fluorescence microscopy (FM) with FIB-SEM imaging exist, whereas workflows combining cryo-FM and cryo-FIB-SEM imaging are not yet commonly available. Here, we demonstrate that fluorescently labeled lipid droplets can serve as in situ fiducial markers for correlating cryo-FM and FIB-SEM datasets and that this approach can be used to target the acquisition of large FIB-SEM stacks spanning tens of microns under cryogenic conditions. We also show that cryo-FIB-SEM imaging is particularly informative for questions related to organelle structure and inter-organellar contacts, nuclear organization, and mineral deposits in cells.
