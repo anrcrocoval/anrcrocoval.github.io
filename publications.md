@@ -10,4 +10,4 @@ category: pub
 
 *Note that this list includes various collaboration papers or work not directly related to CROCOVAL. The list below gathers publications acknowledging ANR CROCOVAL.
 
-[Acknowlegments of ANR CROCOVAL](http://hal.univ-nantes.fr/search/index/?q=ANR+CROCOVAL)
+[Acknowlegments of ANR CROCOVAL](https://anr.hal.science/search/index/?qa[anrProjectReference_t][]=%22ANR-18-CE45-0015%22&sort=producedDate_tdate+desc)
