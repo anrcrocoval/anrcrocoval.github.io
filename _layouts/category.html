@@ -4,7 +4,7 @@ layout: default
 
 {{ content }}
 
-{% if page.category == "pub" or page.category == "blog" %}
+
 {% assign filtered_posts = site.posts | where: 'category', page.category %}
 
 {% if page.category == "blog" %}
@@ -32,13 +32,12 @@ layout: default
 <div class="mobile">
   {%- include post_mobile.html -%}
 </div>
-{% endfor %}
-{% endif %}
+
+
 
 {% if page.category == "soft" %}
-{% assign filtered_posts = site.posts | where: 'category', page.category %}
-<br>
-{% for post in filtered_posts %}
+
+
 <div class="desktop">
   
  {%- include soft_desktop.html -%}
@@ -48,5 +47,6 @@ layout: default
 <div class="mobile">
  {%- include post_mobile.html -%}
 </div>
-{% endfor %}
+
 {% endif %}
+{% endfor %}
