@@ -21,32 +21,17 @@ layout: default
 {% endif %}
 
 {% for post in filtered_posts %}
-<br>
-
 <div class="desktop">
 {% if page.category == "pub" %}
   {%- include pub_desktop.html -%}
 {% endif %}
+{% if page.category == "soft" %}
+  {%- include soft_desktop.html -%}
+{% endif %} 
 </div>
 
 <div class="mobile">
   {%- include post_mobile.html -%}
 </div>
 
-
-
-{% if page.category == "soft" %}
-
-
-<div class="desktop">
-  
- {%- include soft_desktop.html -%}
- 
-</div>
-
-<div class="mobile">
- {%- include post_mobile.html -%}
-</div>
-
-{% endif %}
 {% endfor %}
