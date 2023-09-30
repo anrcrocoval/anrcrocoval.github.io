@@ -35,21 +35,18 @@ layout: default
 {% endfor %}
 {% endif %}
 
-{% if page.category == "soft" or page.category == "tutor" %}
+{% if page.category == "soft" %}
 {% assign filtered_posts = site.posts | where: 'category', page.category %}
-{% for post in filtered_posts %}
 <br>
-
+{% for post in filtered_posts %}
 <div class="desktop">
-  {% if page.category == "soft" %}
-    {%- include soft_desktop.html -%}
-  {% elsif page.category == "tutor" %}
-    {%- include tutor_desktop.html -%}
-  {% endif %}
+  
+ {%- include soft_desktop.html -%}
+ 
 </div>
 
 <div class="mobile">
-  {%- include post_mobile.html -%}
+ {%- include post_mobile.html -%}
 </div>
 {% endfor %}
 {% endif %}
