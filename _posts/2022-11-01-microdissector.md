@@ -12,4 +12,4 @@ pdf: https://uncloud.univ-nantes.fr/index.php/s/eWgcaGA6gsDbias/download/2022-11
 
 layout: post-pub
 ---
-Procedure to transfer annotations from QUPATH on virtual slides to single cell automatic microdissection and example of application https://uncloud.univ-nantes.fr/index.php/s/z6meHGbrRfCBmBw/download/2022-11-04%20-%20Essai%20multimodal%20scanner%20de%20lames%20et%20microdissection%20au%204x.pdf 
+Procedure to transfer annotations from QUPATH on virtual slides to single cell automatic microdissection and [example of application](https://uncloud.univ-nantes.fr/index.php/s/z6meHGbrRfCBmBw/download/2022-11-04%20-%20Essai%20multimodal%20scanner%20de%20lames%20et%20microdissection%20au%204x.pdf).
